@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">珠海英语论坛</string>
+    <string name="action_settings">活动信息</string>
+    <string name="about_us">关于</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="inputURL">珠海英语论坛欢迎你！</string>
+    <string name="URL">URL</string>
+    <string name="Press">活动信息</string>
+
+    <string-array name="Week">
+        <item>Monday</item>
+    </string-array>
+
+    <string name="title_activity_about">珠海英语论坛</string>
+
+</resources>
